@@ -1,0 +1,47 @@
+body {
+   background-image: url('https://img.freepik.com/fotos-premium/helado-fresa-vainilla-derretido-chispitas-sobre-fondo-oblea_307211-125.jpg?semt=ais_hybrid&w=740');
+}
+h1{
+    color: rgb(219, 18, 192);
+    font-size: 32px;
+    text-align: left;
+}
+h2 {
+    color: rgb(129, 82, 39);
+    font-size: 20px;
+    text-align: left;
+}
+h3 {
+    color: rgb(255, 51, 0);
+    font-size: 22px;
+    text-align: left;
+}
+p {
+    color: rgb(63, 59, 59);
+    font-size: 16px;
+    text-align: left;
+}   
+p1 {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: center;
+}
+p2 {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    text-align: right;
+}
+div {
+    background-image: url('https://img.pikbest.com/backgrounds/20200413/neon-style-ice-cream-shop-background-free-download-psd-v_1744525jpg!w700wp');
+    background-size: cover;
+    padding: 6px;
+  height: 110px;
+    width: 400px;
+    text-align: top left;
+}
+li {
+    color: rgb(22, 64, 155);
+    font-size: 14px;
+    list-style-type: square;
+}
+
